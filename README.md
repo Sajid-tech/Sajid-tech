@@ -117,10 +117,8 @@ A versatile UI component library designed with accessibility and developer exper
   
 </div>
 
-- 🌟 **Open Source Contributor** - Contributed to multiple popular repositories
 - 🏅 **NPM Publisher** - Created packages with thousands of downloads
 - 🎓 **Tech Community Mentor** - Helping new developers navigate their journey
-- 🚀 **Hackathon Winner** - Placed in multiple competitive coding events
 
 ## 💻 Tech Stack
 
