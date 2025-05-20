@@ -57,7 +57,7 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 
 > 🔔 **Elegant notification system for modern JavaScript applications**
 
-[![Coming Soon](https://img.shields.io/badge/Coming%20Soon-May%2020,%202025-blue)](https://github.com/Sajid-tech/notifier)
+[![Coming Soon](https://img.shields.io/badge/Coming%20Soon-May%2021,%202025-blue)](https://github.com/Sajid-tech/notifier)
 
 <details>
 <summary>View Details</summary>
@@ -70,7 +70,7 @@ A comprehensive notification library for JavaScript applications, providing a cl
 - 📱 Responsive across all device types
 - 🔧 Simple integration with any JavaScript framework
 
-**Release Date:** May 20, 2025
+**Release Date:** May 21, 2025
 
 [View on GitHub](https://github.com/Sajid-tech/notifier)
 </details>
