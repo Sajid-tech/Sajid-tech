@@ -53,29 +53,7 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 [View on GitHub](https://github.com/Sajid-tech/command-shortner) | [NPM Package](https://www.npmjs.com/package/command-shortner)
 </details>
 
-### 📣 notifier
-
-> 🔔 **Elegant notification system for modern JavaScript applications**
-
-[![Coming Soon](https://img.shields.io/badge/Coming%20Soon-May%2021,%202025-blue)](https://github.com/Sajid-tech/notifier)
-
-<details>
-<summary>View Details</summary>
-
-A comprehensive notification library for JavaScript applications, providing a clean API for displaying and managing user notifications.
-
-**Key Features:**
-- 🎨 Fully customizable notification designs
-- ⏱️ Timing controls and animation options
-- 📱 Responsive across all device types
-- 🔧 Simple integration with any JavaScript framework
-
-**Release Date:** May 21, 2025
-
-[View on GitHub](https://github.com/Sajid-tech/notifier)
-</details>
-
-### 🎨 UI Component Library
+### 🎨 IRIS UI Component Library
 
 > 🧩 **Modern, accessible UI components for rapid application development**
 
@@ -92,9 +70,9 @@ A versatile UI component library designed with accessibility and developer exper
 - 🧩 Composable and extensible architecture
 - 📚 Comprehensive documentation and examples
 
-**Release Date:** May 27, 2025
+**Release Date:** Sep 01, 2025
 
-[View on GitHub](https://github.com/Sajid-tech/ui-library)
+[View on GitHub](https://github.com/Sajid-tech/iris-ui/)
 </details>
 
 ## 📊 GitHub Stats
