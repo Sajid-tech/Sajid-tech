@@ -57,7 +57,7 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 
 > 🧩 **Modern, accessible UI components for rapid application development**
 
-[![Coming Soon](https://img.shields.io/badge/Coming%20Soon-May%2027,%202025-blue)](https://github.com/Sajid-tech/ui-library)
+[![Coming Soon](https://img.shields.io/badge/Coming%20Soon-Sep%2001,%202025-blue)](https://github.com/Sajid-tech/ui-library)
 
 <details>
 <summary>View Details</summary>
