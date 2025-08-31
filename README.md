@@ -52,7 +52,7 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 
 [View on GitHub](https://github.com/Sajid-tech/command-shortner) | [NPM Package](https://www.npmjs.com/package/command-shortner)
 </details>
-# 🎨 IRIS UI Component Library
+🎨 IRIS UI Component Library
 
 > 🧩 **Modern, accessible UI components for rapid application development**  
 > Designed with **clarity** ✨ and built with **confidence** 💻
