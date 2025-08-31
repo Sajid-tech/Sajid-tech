@@ -57,7 +57,7 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 
 > 🧩 **Modern, accessible UI components for rapid application development**
 
-[![Coming Soon](https://img.shields.io/badge/Coming%20Soon-Sep%2001,%202025-blue)](https://github.com/Sajid-tech/ui-library)
+[[![Latest Version](https://img.shields.io/badge/Latest%20Version-v%202.1,%200-blue)](https://github.com/Sajid-tech/iris-ui](https://iris-ui-three.vercel.app/))
 
 <details>
 <summary>View Details</summary>
