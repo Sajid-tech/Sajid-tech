@@ -52,28 +52,31 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 
 [View on GitHub](https://github.com/Sajid-tech/command-shortner) | [NPM Package](https://www.npmjs.com/package/command-shortner)
 </details>
+# 🎨 IRIS UI Component Library
 
-### 🎨 IRIS UI Component Library
+> 🧩 **Modern, accessible UI components for rapid application development**  
+> Designed with **clarity** ✨ and built with **confidence** 💻
 
-> 🧩 **Modern, accessible UI components for rapid application development**
+[![Latest Version](https://img.shields.io/badge/version-2.1.0-blue)](https://iris-ui-three.vercel.app/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4.0-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-Library-9F7AEA)](https://ui.shadcn.com/)
 
-[[![Latest Version](https://img.shields.io/badge/Latest%20Version-v%202.1,%200-blue)](https://github.com/Sajid-tech/iris-ui](https://iris-ui-three.vercel.app/))
+---
 
-<details>
-<summary>View Details</summary>
+## 🌟 Overview
 
-A versatile UI component library designed with accessibility and developer experience in mind.
+IRIS UI is a **curated collection of 100+ premium UI components** crafted with  
+**Tailwind CSS** and **shadcn/ui** — optimized for modern **React** and **Next.js** applications.
 
-**Key Features:**
-- ♿ WCAG 2.1 compliant components
-- 🌙 Built-in dark mode support
-- 🧩 Composable and extensible architecture
-- 📚 Comprehensive documentation and examples
+### ✨ Key Features
+- ♿ **Accessibility-first** → WCAG 2.1 compliant components
+- 🌙 **Dark mode** support out of the box
+- 🧩 **Composable & extensible** architecture
+- ⚡ **Developer-friendly** → Simple, consistent API
+- 📚 **Comprehensive documentation** and usage examples
 
-**Release Date:** Sep 01, 2025
+---
 
-[View on GitHub](https://github.com/Sajid-tech/iris-ui/)
-</details>
 
 ## 📊 GitHub Stats
 
