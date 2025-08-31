@@ -63,19 +63,6 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 
 ---
 
-## 🌟 Overview
-
-IRIS UI is a **curated collection of 100+ premium UI components** crafted with  
-**Tailwind CSS** and **shadcn/ui** — optimized for modern **React** and **Next.js** applications.
-
-### ✨ Key Features
-- ♿ **Accessibility-first** → WCAG 2.1 compliant components
-- 🌙 **Dark mode** support out of the box
-- 🧩 **Composable & extensible** architecture
-- ⚡ **Developer-friendly** → Simple, consistent API
-- 📚 **Comprehensive documentation** and usage examples
-
----
 
 
 ## 📊 GitHub Stats
