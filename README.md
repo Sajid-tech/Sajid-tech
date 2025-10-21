@@ -103,4 +103,4 @@ Modern, accessible UI components for rapid development.
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/sajid-h-8300a11ab)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a252f?logo=About.me)](https://your-portfolio.com](https://sajiddev-peach.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a252f?logo=About.me)](https://sajiddev-peach.vercel.app)
