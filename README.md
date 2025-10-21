@@ -1,4 +1,4 @@
-# 👋 Sajid Hussain | Developer 
+# 👋 Sajid Hussain | FullStack Developer 
 
 <div align="center">
   
