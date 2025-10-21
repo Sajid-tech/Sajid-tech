@@ -102,6 +102,5 @@ Modern, accessible UI components for rapid development.
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/your-twitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a252f?logo=About.me)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/sajid-h-8300a11ab)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a252f?logo=About.me)](https://your-portfolio.com](https://sajiddev-peach.vercel.app)
