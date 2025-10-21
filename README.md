@@ -1,4 +1,4 @@
-# 👋 Sajid Hussain | Developer & Open-Source Advocate
+# 👋 Sajid Hussain | Developer 
 
 <div align="center">
   
