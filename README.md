@@ -5,7 +5,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=Sajid-tech&color=blueviolet)
   [![GitHub](https://img.shields.io/github/followers/Sajid-tech?style=social)](https://github.com/Sajid-tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/sajid-h-8300a11ab)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a252f?logo=About.me)](https://sajiddev-peach.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a252f?logo=About.me)](https://sajidhussain.is-a.dev)
 
 </div>
 
