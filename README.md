@@ -1,5 +1,5 @@
 # 👋 Hey, I'm **Sajid Hussain**
-**Frontend/Fullstack Developer | React & Next.js Specialist**
+**Software Engineer specializing in Backend Systems, Architecture & Developer Tools**
 
 <div align="center">
 
